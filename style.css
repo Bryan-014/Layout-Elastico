@@ -1,0 +1,37 @@
+html{
+    font-size: 100%;
+} 
+body{
+    font-size: 1em;
+    font-family: georgia, serif;
+    text-align: center;
+    color: #444;
+    background: #e6e6e6;
+    padding: 0;
+    margin: 0;
+}
+#wrap{
+    width: 46.25em;
+    margin: 1.5em auto;
+    background: #fff;
+    border: 0.1em solid #000;
+    border-radius: 25px;
+    text-align: left;
+}
+h1{
+    font-size: 1.125em;
+    line-height: 1em;
+    margin: 1em;
+    font-weight: 300;
+}
+p{
+    font-size: 0.750em;
+    line-height: 1.5em;
+    margin: 1.5em;
+}
+p img{
+    width:7.5em;
+    height:7.5em;
+    margin:0 1.5em 1.5em 0;
+    float:left;
+}
